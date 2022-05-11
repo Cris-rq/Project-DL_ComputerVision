@@ -1,2 +1,2 @@
-# First_Project-DL
-My first project about Deep Learning using FashionMNIST
+# First Computer Vision _Project-DL
+My first Computer Vision project about Deep Learning using FashionMNIST
